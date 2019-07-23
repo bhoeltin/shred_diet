@@ -1,0 +1,444 @@
+'{
+  "week1": {
+    "day1": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "5oz meat",
+        "side": "veggie"
+      },
+      "meal4": {
+        "main": "3 servings veggies",
+        "side": "1 cup beans"
+      },
+      "snack3": [
+        "100cal"
+      ]
+    },
+    "day2": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "chicken or turkey sandwich",
+        "side": "veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "soup or smoothie",
+        "side": "fruit or veggie"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    },
+    "day3": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "chicken or turkey sandwich",
+        "side": "small salad"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "1/2 cup rice and veggie"
+      }
+    },
+    "day4": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "soup - 300 cal",
+        "side": "small salad"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "smoothie - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "1/2 sweet potato and veggie"
+      }
+    },
+    "day5": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "soup - 300 cal",
+        "side": "small salad"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    },
+    "day6": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "150cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "100cal"
+      ],
+      "meal3": {
+        "main": "5oz meat",
+        "side": "1/2 cup rice and veggies"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "large salad",
+        "side": "1 cup beans"
+      },
+      "snack4": {
+        "main": "large salad",
+        "side": "1 cup beans"
+      }
+    },
+    "day7": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "medium salad",
+        "side": "piece of fruit"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    }
+  },
+  "week2": {
+    "day1": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "5oz meat",
+        "side": "veggie"
+      },
+      "meal4": {
+        "main": "3 servings veggies",
+        "side": "1 cup beans"
+      },
+      "snack3": [
+        "100cal"
+      ]
+    },
+    "day2": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "chicken or turkey sandwich",
+        "side": "veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "soup or smoothie",
+        "side": "fruit or veggie"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    },
+    "day3": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "chicken or turkey sandwich",
+        "side": "small salad"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "1/2 cup rice and veggie"
+      }
+    },
+    "day4": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "soup - 300 cal",
+        "side": "small salad"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "smoothie - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "1/2 sweet potato and veggie"
+      }
+    },
+    "day5": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "soup - 300 cal",
+        "side": "small salad"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    },
+    "day6": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "150cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "100cal"
+      ],
+      "meal3": {
+        "main": "5oz meat",
+        "side": "1/2 cup rice and veggies"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "large salad",
+        "side": "1 cup beans"
+      },
+      "snack4": {
+        "main": "large salad",
+        "side": "1 cup beans"
+      }
+    },
+    "day7": {
+      "meal1": {
+        "main": [
+          "egg white omelette or 2 egg whites",
+          "1.5 cups oatmeal",
+          "grilled cheese"
+        ],
+        "side": "piece of fruit"
+      },
+      "snack1": [
+        "100cal"
+      ],
+      "meal2": {
+        "main": "smoothie or soup - 300 cal",
+        "side": "fruit or veggie"
+      },
+      "snack2": [
+        "150cal"
+      ],
+      "meal3": {
+        "main": "medium salad",
+        "side": "piece of fruit"
+      },
+      "snack3": [
+        "100cal"
+      ],
+      "meal4": {
+        "main": "5oz meat",
+        "side": "2 serving veggies"
+      }
+    }
+  }
+}';
