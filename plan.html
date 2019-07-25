@@ -7,8 +7,10 @@
     <title>Shred Diet Planner</title>
 	</head>
   <body>
-    <p>Week:
-      <select id = "week" onchange="loadWeek();">
+		<center><p><h1>Eating Schedule</h1><img src="meal_plan_sched.png" width= 30%></img></p>
+    <p>Chose Week:
+      <select id = "week" onload = "loadWeek();" onchange="loadWeek();">
+				<option value="" selected disabled hidden>Choose a week</option>
         <option value="week1">Week 1</option>
         <option value="week2">Week 2</option>
         <option value="week3">Week 3</option>
@@ -17,6 +19,6 @@
         <option value="week6">Week 6</option>
       </select>
     </p>
-    <div id="show"></div>
+    <div id="show" width = auto></div></center>
   </body>
 </html>
