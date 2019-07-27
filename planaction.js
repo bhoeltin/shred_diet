@@ -11,31 +11,37 @@ function loadWeek(){
         week1 = mydata['week1'];
         addWeek(week1, 1);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').className = "show";
         break;
     case "week2":
         week2 = mydata['week2'];
         addWeek(week2, 2);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').class = 'show';
         break;
     case "week3":
         week3 = mydata['week3'];
         addWeek(week3, 3);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').display = "block";
         break;
     case "week4":
         week4 = mydata['week4'];
         addWeek(week4, 4);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').display = "block";
         break;
     case "week5":
         week5 = mydata['week5'];
         addWeek(week5, 5);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').display = "block";
         break;
     case "week6":
         week6 = mydata['week6'];
         addWeek(week6, 6);
         document.getElementById('show').innerHTML = inner;
+        document.getElementById('create').display = "block";
         break;
 
     }
@@ -63,8 +69,9 @@ function addmeal1(x,y){
   }
 }
 function addmeal2(x,y){
-  inner = inner + "<td><b>Meal 2</b></td><td><p>"
+
   if (y > 4) {
+    inner = inner + "<td><b>Meal 2</b></td><td><p>"
     if (x.day1.meal2.drink) inner = inner + x.day1.meal2.drink + "</p><p>" + x.day1.meal2.main + "</p><p>" + x.day1.meal2.side + "</p></td><td><p>"
     else inner = inner + x.day1.meal2.main + "</p><p>" + x.day1.meal2.side + "</p></td><td><p>"
     if (x.day2.meal2.drink) inner = inner + x.day2.meal2.drink + "</p><p>" + x.day2.meal2.main + "</p><p>" + x.day2.meal2.side + "</p></td><td><p>"
@@ -86,8 +93,9 @@ function addmeal2(x,y){
 }
 
 function addmeal3(x,y){
-  inner = inner + "<td><b>Meal 3</b></td><td><p>"
+
   if (y > 4) {
+    inner = inner + "<td><b>Meal 3</b></td><td><p>"
     if (x.day1.meal3.drink) inner = inner + x.day1.meal3.drink + "</p><p>" + x.day1.meal3.main + "</p><p>" + x.day1.meal3.side + "</p></td><td><p>"
     else inner = inner + x.day1.meal3.main + "</p><p>" + x.day1.meal3.side + "</p></td><td><p>"
     if (x.day2.meal3.drink) inner = inner + x.day2.meal3.drink + "</p><p>" + x.day2.meal3.main + "</p><p>" + x.day2.meal3.side + "</p></td><td><p>"

@@ -7,3 +7,10 @@ td {
 table {
   width: 100%;
 }
+
+button.hidden{
+  display: none;
+}
+button.show{
+  display: block;
+}
