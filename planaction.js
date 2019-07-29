@@ -25,31 +25,31 @@ function loadWeek(){
         week2 = mydata['week2'];
         addWeek(week2, 2);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').class = 'show';
+        document.getElementById('create').className = "show";
         break;
     case "week3":
         week3 = mydata['week3'];
         addWeek(week3, 3);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').display = "block";
+        document.getElementById('create').className = "show";
         break;
     case "week4":
         week4 = mydata['week4'];
         addWeek(week4, 4);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').display = "block";
+        document.getElementById('create').className = "show";
         break;
     case "week5":
         week5 = mydata['week5'];
         addWeek(week5, 5);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').display = "block";
+        document.getElementById('create').className = "show";
         break;
     case "week6":
         week6 = mydata['week6'];
         addWeek(week6, 6);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').display = "block";
+        document.getElementById('create').className = "show";
         break;
 
     }
