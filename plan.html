@@ -3,14 +3,14 @@
 	<head>
 		<link rel="stylesheet" href="myStyles.css">
     <script src="planaction.js"></script>
-		<script src="createList.js"></script>
 		<!-- <script src="data.json"></script> -->
     <title>Shred Diet Planner</title>
 	</head>
   <body>
 		<center><p><h1>Eating Schedule</h1><img src="meal_plan_sched.png" width= 30%></img></p>
     <p>Chose Week:
-      <select id = "week" onload = "loadWeek();" onchange="loadWeek();">
+			<form action= "createList.php" method="get">
+      	<select name = "week" id = "week" onload = "loadWeek();" onchange="loadWeek();">
 				<option value="" selected disabled hidden>Choose a week</option>
         <option value="week1">Week 1</option>
         <option value="week2">Week 2</option>
@@ -18,9 +18,16 @@
         <option value="week4">Week 4</option>
         <option value="week5">Week 5</option>
         <option value="week6">Week 6</option>
-      </select>
-    </p>
-		<button id="create" class="hidden" onclick="createList();">Create List</button>
+      	</select>
+				  <br><br>
+    	<input type="submit" value="Create Shopping List" />
+		</form></p>
+		<!-- <script>
+			var week =document.getElementById('week').value;
+			var queryString = "?para1=" + week;
+			document.getElementById('create').action = "createList.html" + queryString;
+		</script> -->
+
     <div id="show" width = auto></div></center>
 
   </body>
