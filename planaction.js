@@ -2,6 +2,14 @@ var data = '{"week1":{"day1":{"meal1":{"main":["egg white omelette or 2 egg whit
 
 var inner;
 
+function openInNewTab() {
+  var week =document.getElementById('week').value;
+  var queryString = "?para1=" + week;
+  url = "createList.html" + queryString;
+  var win = window.open(url, '_blank');
+  win.focus();
+}
+
 function loadWeek(){
   var val = document.getElementById('week').value;
   var mydata = JSON.parse(data);
