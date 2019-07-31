@@ -8,9 +8,30 @@ table {
   width: 100%;
 }
 
+div.show{
+  display: block;
+}
+div.hidden{
+  display: none;
+}
+
 button.hidden{
   display: none;
 }
 button.show{
   display: block;
+}
+
+#copy1{
+  text-align: right;
+  padding-right: 200px;
+}
+
+
+#list1{
+  padding-left: 25px;
+}
+
+h2{
+  font-size: 18px;
 }

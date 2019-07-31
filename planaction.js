@@ -15,41 +15,47 @@ function loadWeek(){
   var mydata = JSON.parse(data);
   var innerSnacks = [];
   switch(val){
-    case "week1":
+    case "Week 1":
         week1 = mydata['week1'];
         addWeek(week1, 1);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
-    case "week2":
+    case "Week 2":
         week2 = mydata['week2'];
         addWeek(week2, 2);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
-    case "week3":
+    case "Week 3":
         week3 = mydata['week3'];
         addWeek(week3, 3);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
-    case "week4":
+    case "Week 4":
         week4 = mydata['week4'];
         addWeek(week4, 4);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
-    case "week5":
+    case "Week 5":
         week5 = mydata['week5'];
         addWeek(week5, 5);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
-    case "week6":
+    case "Week 6":
         week6 = mydata['week6'];
         addWeek(week6, 6);
         document.getElementById('show').innerHTML = inner;
-        document.getElementById('create').className = "show";
+        document.getElementById('show').className = "show";
+        document.getElementById('list1').className = "hidden";
         break;
 
     }
